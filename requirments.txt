@@ -16,5 +16,7 @@ plotly
 seaborn
 
 spacy
+nltk
+pymorphy3
 
 torch
