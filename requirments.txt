@@ -20,3 +20,7 @@ nltk
 pymorphy3
 
 torch
+
+navec
+razdel
+gensim
