@@ -24,3 +24,6 @@ torch
 navec
 razdel
 gensim
+
+transformers
+sentence-transformers
